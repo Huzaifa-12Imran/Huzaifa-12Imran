@@ -40,14 +40,14 @@
 <td width="50%" style="padding: 10px;">
 
 <a href="https://port-folio-bb21.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Port-folio&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Port-folio&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27&cache_seconds=0" />
 </a>
 
 </td>
 <td width="50%" style="padding: 10px;">
 
 <a href="https://github.com/Huzaifa-12Imran/Huzaifa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Huzaifa&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Huzaifa&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27&cache_seconds=0&description_lines_count=2" />
 </a>
 
 </td>
