@@ -33,14 +33,36 @@
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://port-folio-bb21.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Port-folio&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Huzaifa-12Imran/Huzaifa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Huzaifa&theme=dark&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+**[Port-folio](https://port-folio-bb21.vercel.app)**
+
+Web developer Portfolio — inspired by Clair Obscure Expedition 33
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[View Live →](https://port-folio-bb21.vercel.app)
+
+</td>
+<td width="50%">
+
+**[Huzaifa](https://github.com/Huzaifa-12Imran/Huzaifa)**
+
+Web developer Portfolio — Creamy/Royal Theme
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[View Repo →](https://github.com/Huzaifa-12Imran/Huzaifa)
+
+</td>
+</tr>
+</table>
 
 ---
 
