@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/huzaifaimran">
+  <a href="https://www.linkedin.com/in/huzaifaimran-sunghua">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://port-folio-bb21.vercel.app">
@@ -35,7 +35,7 @@ I sit at the intersection of **web engineering** and **creative technology** —
 |---|---|---|
 | 🗂️ **AI Portfolio** | TypeScript · Next.js | [View →](https://port-folio-bb21.vercel.app) |
 | 🕹️ **Breakout (x86 Assembly)** | Assembly · C++ | Academic Lab Project |
-| 🌍 **3D Game Environment** | Unreal Engine 5 · Blender | [Post →](https://www.linkedin.com/in/huzaifaimran) |
+| 🌍 **3D Game Environment** | Unreal Engine 5 · Blender | [Post →](https://www.linkedin.com/in/huzaifaimran-sunghua) |
 
 ---
 
