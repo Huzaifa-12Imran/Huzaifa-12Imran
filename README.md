@@ -33,36 +33,28 @@
 
 ### Featured Projects
 
-<table>
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 10px;">
 
-**[Port-folio](https://port-folio-bb21.vercel.app)**
-
-Web developer Portfolio — inspired by Clair Obscure Expedition 33
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)
-
-[View Live →](https://port-folio-bb21.vercel.app)
+<a href="https://port-folio-bb21.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Port-folio&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27" />
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 10px;">
 
-**[Huzaifa](https://github.com/Huzaifa-12Imran/Huzaifa)**
-
-Web developer Portfolio — Creamy/Royal Theme
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-[View Repo →](https://github.com/Huzaifa-12Imran/Huzaifa)
+<a href="https://github.com/Huzaifa-12Imran/Huzaifa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Huzaifa&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27" />
+</a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -105,12 +97,12 @@ Web developer Portfolio — Creamy/Royal Theme
 ### Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=dark&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
