@@ -92,7 +92,7 @@ const jin = {
 <br/>
 
 <div align="center">
-<img src="./icons/frontend.svg" width="220" alt="Front Line — Frontend"/>
+<img src="./frontend.svg" width="220" alt="Front Line — Frontend"/>
 </div>
 
 <p align="center">
@@ -102,7 +102,7 @@ const jin = {
 <br/>
 
 <div align="center">
-<img src="./icons/backend.svg" width="220" alt="The Stronghold — Backend"/>
+<img src="./backend.svg" width="220" alt="The Stronghold — Backend"/>
 </div>
 
 <p align="center">
@@ -112,7 +112,7 @@ const jin = {
 <br/>
 
 <div align="center">
-<img src="./icons/shadow.svg" width="220" alt="Shadow Tools — Arsenal"/>
+<img src="./shadow.svg" width="220" alt="Shadow Tools — Arsenal"/>
 </div>
 
 <p align="center">
