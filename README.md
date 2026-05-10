@@ -38,7 +38,8 @@
 
 <div align="center">
 
-### `⸺ 我について ⸺`
+<img src="./div-about.svg" width="100%" alt="我について — Who Is The Shadow"/>
+
 ### *WHO IS THE SHADOW*
 
 </div>
@@ -78,7 +79,8 @@ const jin = {
 
 <div align="center">
 
-### `⸺ 武器庫 ⸺`
+<img src="./div-arsenal.svg" width="100%" alt="武器庫 — The Arsenal"/>
+
 ### *THE ARSENAL*
 
 <br/>
@@ -129,7 +131,8 @@ const jin = {
 
 <div align="center">
 
-### `⸺ 精鋭作品 ⸺`
+<img src="./div-projects.svg" width="100%" alt="精鋭作品 — Chronicles of Battle"/>
+
 ### *CHRONICLES OF BATTLE*
 
 <br/>
@@ -190,7 +193,8 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 
 <div align="center">
 
-### `⸺ 戦の記録 ⸺`
+<img src="./div-records.svg" width="100%" alt="戦の記録 — Battle Records"/>
+
 ### *BATTLE RECORDS*
 
 <br/>
@@ -221,7 +225,8 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 
 <div align="center">
 
-### `⸺ 名誉の証 ⸺`
+<img src="./div-honors.svg" width="100%" alt="名誉の証 — Honors of the Clan"/>
+
 ### *HONORS OF THE CLAN*
 
 <br/>
