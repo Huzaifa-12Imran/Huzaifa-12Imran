@@ -207,9 +207,9 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 
 <br/><br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&icon_color=C9A84C&border_color=1e1a0e&hide_border=false&count_private=true&include_all_commits=true&custom_title=Warrior%20Stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&icon_color=C9A84C&border_color=1e1a0e&hide_border=false&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&border_color=1e1a0e&hide_border=false&custom_title=Scripts%20of%20Battle&langs_count=6"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&border_color=1e1a0e&hide_border=false&langs_count=6"/>
 
 <br/><br/>
 
