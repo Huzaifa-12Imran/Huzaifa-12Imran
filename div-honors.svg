@@ -1,0 +1,12 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="60" fill="#0a0e1a"/>
+<line x1="40" y1="30" x2="290" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/>
+<line x1="280" y1="24" x2="280" y2="36" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+<polygon points="292,30 300,24 308,30 300,36" fill="none" stroke="#C9A84C" stroke-width="1"/>
+<text x="400" y="36" text-anchor="middle" font-family="Georgia, 'Hiragino Mincho ProN', serif" font-size="18" fill="#C9A84C" letter-spacing="6">名誉の証</text>
+<polygon points="492,30 500,24 508,30 500,36" fill="none" stroke="#C9A84C" stroke-width="1"/>
+<line x1="520" y1="24" x2="520" y2="36" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+<line x1="510" y1="30" x2="760" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/>
+<line x1="40" y1="25" x2="40" y2="35" stroke="#C9A84C" stroke-width="1.2" opacity="0.4"/>
+<line x1="760" y1="25" x2="760" y2="35" stroke="#C9A84C" stroke-width="1.2" opacity="0.4"/>
+</svg>

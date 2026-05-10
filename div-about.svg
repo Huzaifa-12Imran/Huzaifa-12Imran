@@ -1,0 +1,21 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="60" fill="#0a0e1a"/>
+<!-- left long line -->
+<line x1="40" y1="30" x2="290" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/>
+<!-- left inner tick -->
+<line x1="280" y1="24" x2="280" y2="36" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+<!-- left diamond -->
+<polygon points="302,30 310,24 318,30 310,36" fill="none" stroke="#C9A84C" stroke-width="1"/>
+<!-- kanji -->
+<text x="400" y="36" text-anchor="middle" font-family="Georgia, 'Hiragino Mincho ProN', serif" font-size="18" fill="#C9A84C" letter-spacing="6">我について</text>
+<!-- right diamond -->
+<polygon points="482,30 490,24 498,30 490,36" fill="none" stroke="#C9A84C" stroke-width="1"/>
+<!-- right inner tick -->
+<line x1="520" y1="24" x2="520" y2="36" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+<!-- right long line -->
+<line x1="510" y1="30" x2="760" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/>
+<!-- corner marks left -->
+<line x1="40" y1="25" x2="40" y2="35" stroke="#C9A84C" stroke-width="1.2" opacity="0.4"/>
+<!-- corner marks right -->
+<line x1="760" y1="25" x2="760" y2="35" stroke="#C9A84C" stroke-width="1.2" opacity="0.4"/>
+</svg>
