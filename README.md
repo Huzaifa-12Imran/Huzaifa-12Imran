@@ -225,8 +225,8 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 
 *— Huzaifa Imran &nbsp;·&nbsp; 影の侍 &nbsp;·&nbsp; Shadow Samurai*
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0f1525,80:1a1200,100:0a0e1a&height=120&section=footer"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,50:7a5c1e,100:0a0e1a&height=120&section=footer&fontAlign=50&fontAlignY=65&fontSize=14&text=影%20の%20侍%20%7C%20SHADOW%20SAMURAI%20%7C%20影%20の%20侍&fontColor=0a0e1a)
 
 </div>
