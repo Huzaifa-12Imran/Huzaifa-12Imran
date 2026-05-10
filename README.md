@@ -207,13 +207,13 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 
 <br/><br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&icon_color=C9A84C&border_color=1e1a0e&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&hide_border=false&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&icon_color=C9A84C&border_color=1e1a0e&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&border_color=1e1a0e&hide_border=false&langs_count=6"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&border_color=1e1a0e&hide_border=false&langs_count=6"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=transparent&background=0a0e1a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=a09070&currStreakNum=ffffff&sideNums=C9A84C&dates=555040&hide_border=false&border=1e1a0e&stroke=C9A84C30"/>
+<img src="https://streak-stats.demolab.com?user=Huzaifa-12Imran&theme=transparent&background=0a0e1a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=a09070&currStreakNum=ffffff&sideNums=C9A84C&dates=555040&hide_border=false&border=1e1a0e&stroke=C9A84C30&card_width=800"/>
 
 </div>
 
