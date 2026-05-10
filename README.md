@@ -1,80 +1,39 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE" width="100%" />
-</p>
-
-<br/>
-
 <div align="center">
+### Built With
 
-# Huzaifa Imran
+Next.js • Tailwind • Stripe • Express
 
-### Full Stack Engineer • Creative Developer • 3D Systems Designer
+### Highlights
 
-<p>
-Building immersive digital experiences through engineering, design, and interaction.
-</p>
-
-<br/>
-
-<a href="https://port-folio-bb21.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/huzaifaimran-sunghua">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:huzaifaimran@outlook.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<br/>
-
-# Selected Work
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="YOUR_PROJECT_LINK">
-  <img src="YOUR_PROJECT_IMAGE" width="100%" />
-</a>
-
-<br/>
-<br/>
-
-## ShadowOS
-
-Minimal AI-enhanced productivity platform focused on speed, clarity, and modern UX.
-
-#### Stack
-`Next.js` `TypeScript` `Node.js` `MongoDB`
+- motion-driven UX
+- premium product pages
+- dynamic inventory
+- responsive architecture
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-<a href="YOUR_PROJECT_LINK">
-  <img src="YOUR_PROJECT_IMAGE" width="100%" />
-</a>
+```txt
+STATUS
+────────────
+DEPLOYED
+```
 
-<br/>
-<br/>
+```txt
+ROLE
+────────────
+FRONTEND
+UX SYSTEMS
+```
 
-## Neon Commerce
-
-Cinematic ecommerce experience with immersive UI and responsive architecture.
-
-#### Stack
-`React` `Express` `Stripe` `TailwindCSS`
+```txt
+YEAR
+────────────
+2026
+```
 
 </td>
-
 </tr>
 </table>
 
@@ -82,51 +41,62 @@ Cinematic ecommerce experience with immersive UI and responsive architecture.
 
 <br/>
 
-# Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,tailwind,cpp,py,blender,unrealengine,figma,git,github,vscode&theme=dark" />
-
-</div>
-
----
+# Selected Stack
 
 <br/>
-
-# Currently Exploring
-
-```txt
-• AI-integrated applications
-• Scalable backend architecture
-• Real-time systems
-• Cinematic web interactions
-• Unreal Engine environments
-```
-
----
-
-<br/>
-
-# GitHub Analytics
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,ts,tailwind,cpp,blender,unrealengine&theme=light" />
 </p>
+
+<br/>
 
 ---
 
 <br/>
 
-<div align="center">
+# Current Direction
 
-> “Most software is functional.  
-> The best software feels unforgettable.”
+<table>
+<tr>
+<td width="33%">
+
+### Web Systems
+
+Building scalable interfaces with strong visual identity.
+
+</td>
+
+<td width="33%">
+
+### Interactive Design
+
+Exploring motion, transitions, and immersive UI.
+
+</td>
+
+<td width="33%">
+
+### Creative Technology
+
+Combining engineering with cinematic world-building.
+
+</td>
+</tr>
+</table>
+
+---
 
 <br/>
 
-<a href="https://github.com/Huzaifa-12Imran">
-  <img src="https://komarev.com/ghpvc/?username=Huzaifa-12Imran&style=flat-square&color=grey" />
-</a>
+<p align="center">
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=bfbfbf&icon_color=ffffff" />
+</p>
+
+<br/>
+
+<div align="center">
+
+### "The interface is part of the experience."
 
 </div>
