@@ -116,7 +116,7 @@
 
 ## `// CODING ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-imran&bg_color=0a0e1a&color=00A8FF&line=00A8FF&point=ffffff&area=true&area_color=00A8FF&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-12Imran&bg_color=0a0e1a&color=00A8FF&line=00A8FF&point=ffffff&area=true&area_color=00A8FF&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
