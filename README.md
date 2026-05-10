@@ -87,35 +87,31 @@ const jin = {
 
 <br/>
 
+*Every tool a blade. Every commit a cut.*
+
+<br/>
+
 **`⚔ FRONT LINE — FRONTEND`**
 
-![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=C9A84C)
-![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=for-the-badge&logo=nextdotjs&logoColor=C9A84C)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=C9A84C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0e1a?style=for-the-badge&logo=tailwind-css&logoColor=C9A84C)
-![HTML5](https://img.shields.io/badge/HTML5-0a0e1a?style=for-the-badge&logo=html5&logoColor=C9A84C)
-![CSS3](https://img.shields.io/badge/CSS3-0a0e1a?style=for-the-badge&logo=css3&logoColor=C9A84C)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js,vite&theme=dark" />
+</p>
 
 <br/>
 
 **`🏯 THE STRONGHOLD — BACKEND`**
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=for-the-badge&logo=nodedotjs&logoColor=C9A84C)
-![Express.js](https://img.shields.io/badge/Express.js-0a0e1a?style=for-the-badge&logo=express&logoColor=C9A84C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=C9A84C)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=for-the-badge&logo=mongodb&logoColor=C9A84C)
-![GraphQL](https://img.shields.io/badge/GraphQL-0a0e1a?style=for-the-badge&logo=graphql&logoColor=C9A84C)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,prisma&theme=dark" />
+</p>
 
 <br/>
 
 **`🌙 SHADOW TOOLS`**
 
-![Git](https://img.shields.io/badge/Git-0a0e1a?style=for-the-badge&logo=git&logoColor=C9A84C)
-![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=C9A84C)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0e1a?style=for-the-badge&logo=visual-studio-code&logoColor=C9A84C)
-![Figma](https://img.shields.io/badge/Figma-0a0e1a?style=for-the-badge&logo=figma&logoColor=C9A84C)
-![Blender](https://img.shields.io/badge/Blender-0a0e1a?style=for-the-badge&logo=blender&logoColor=C9A84C)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0e1a?style=for-the-badge&logo=unrealengine&logoColor=C9A84C)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,unrealengine,cpp,python&theme=dark" />
+</p>
 
 </div>
 
