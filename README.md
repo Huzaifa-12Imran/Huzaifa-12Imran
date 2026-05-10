@@ -1,293 +1,232 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
-  ║           HUZAIFA.IMRAN — GitHub Profile README                     ║
-  ║   Shadow Developer • Full Stack MERN • Ghost of Tsushima Theme      ║
+  ║        HUZAIFA.IMRAN — GitHub Profile README                        ║
+  ║        Ghost of Tsushima · Full Cinematic Edition                   ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
-<img src="./hero-banner.svg" width="100%" alt="Huzaifa Imran — Full Stack MERN Developer"/>
+  <img src="./hero-banner.svg" width="100%" alt="Huzaifa Imran — Full Stack MERN Developer"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════ JAPANESE DIVIDER ════════════════════ -->
+<!---------------------------------------------------------------------------->
+<!--  I. THE OATH  -->
+<!---------------------------------------------------------------------------->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:0d1526,100:0a0e1a&height=2&section=header&reversal=false"/>
+
+<br/>
+
+*The wind carries no name. The shadow leaves no trace.*
+*Yet the work remains — written in code, etched in commit.*
+
+<br/>
+
+```
+　 　　　　影　の　侍　　｜　　S H A D O W　S A M U R A I　　｜　　影　の　侍 　　　　
+```
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT / BIO SECTION ════════════════════ -->
+<!---------------------------------------------------------------------------->
+<!--  II. THE SCROLL — ABOUT  -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-```
-　　　　影　の　侍　｜　SHADOW   OF   CODE　｜　影　の　侍
-```
+### `⸺ 我について ⸺`
+### *WHO IS THE SHADOW*
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<br/>
 
-### `// 我について — ABOUT ME`
-
-```javascript
-const huzaifa = {
-  role    : "Full Stack MERN Developer",
-  focus   : ["AI Apps", "Real-time Systems", "3D Worlds"],
-  tools   : ["React", "Next.js", "Node.js", "Unreal Engine 5"],
-  creed   : "Code is not just about solving problems,
-             it's about creating possibilities.",
-  status  : "⚔  Available for work — open to new quests",
+```ts
+const jin = {
+  name    : "Huzaifa Imran",
+  clan    : "Full Stack MERN · 3D Worlds · AI Systems",
+  weapons : ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "Unreal Engine 5"],
+  creed   : "Code is not about solving problems — it is about creating possibilities.",
+  status  : "⚔  Available · Open to new quests",
+  locale  : "Faisalabad, Pakistan 🇵🇰",
 };
 ```
 
-> *"The sword and the scroll — one who masters both  
-> is feared by none, yet respected by all."*
+<br/>
 
-</td>
-<td width="45%" valign="top">
+<div align="center">
 
-### `// 現在の道 — CURRENT PATH`
-
-```
-  AI Integrated Applications
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%
-
-  Scalable Backend Systems
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75%
-
-  Real-time Architectures
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65%
-
-  Unreal Engine 5 Workflows
-  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50%
-
-  System Design & Optimization
-  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60%
-```
-
-</td>
-</tr>
-</table>
+> *"He who builds in silence speaks loudest when the work is revealed."*
 
 <br/>
 
-<!-- ═══════════════════════ FEATURED PROJECTS ════════════════════════ -->
-
-<div align="center">
-
-```
-　　　　　　　　　　　◈  精鋭作品  |  FEATURED WORKS  ◈
-```
+[![Portfolio](https://img.shields.io/badge/⛩_Portfolio-0a0e1a?style=for-the-badge&logoColor=C9A84C)](https://port-folio-bb21.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/⚔_LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/huzaifaimran-sungpog)
+[![Email](https://img.shields.io/badge/✉_Email-0a0e1a?style=for-the-badge&logo=microsoft-outlook&logoColor=C9A84C)](mailto:smart_huzaifa@outlook.com)
 
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top">
+<br/><br/>
+
+<!---------------------------------------------------------------------------->
+<!--  III. THE ARSENAL  -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-```
-┌─────────────────────────┐
-│  ◈  IMPACTTRACKER       │
-│  ── ── ── ── ── ── ──   │
-│  AI  SOCIAL  ORACLE     │
-└─────────────────────────┘
-```
+### `⸺ 武器庫 ⸺`
+### *THE ARSENAL*
+
+<br/>
+
+*Every tool a blade. Every commit a cut.*
+
+<br/>
+
+| Domain | Weapons |
+|:---:|:---|
+| **⚔ Frontend** | ![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=C9A84C) ![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=flat-square&logo=nextdotjs&logoColor=C9A84C) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=C9A84C) ![Tailwind](https://img.shields.io/badge/Tailwind-0a0e1a?style=flat-square&logo=tailwind-css&logoColor=C9A84C) ![HTML5](https://img.shields.io/badge/HTML5-0a0e1a?style=flat-square&logo=html5&logoColor=C9A84C) |
+| **🏯 Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=nodedotjs&logoColor=C9A84C) ![Express](https://img.shields.io/badge/Express-0a0e1a?style=flat-square&logo=express&logoColor=C9A84C) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=flat-square&logo=postgresql&logoColor=C9A84C) ![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=flat-square&logo=mongodb&logoColor=C9A84C) ![GraphQL](https://img.shields.io/badge/GraphQL-0a0e1a?style=flat-square&logo=graphql&logoColor=C9A84C) |
+| **🌙 Shadow Tools** | ![Git](https://img.shields.io/badge/Git-0a0e1a?style=flat-square&logo=git&logoColor=C9A84C) ![Figma](https://img.shields.io/badge/Figma-0a0e1a?style=flat-square&logo=figma&logoColor=C9A84C) ![Blender](https://img.shields.io/badge/Blender-0a0e1a?style=flat-square&logo=blender&logoColor=C9A84C) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0e1a?style=flat-square&logo=unrealengine&logoColor=C9A84C) ![VS Code](https://img.shields.io/badge/VS_Code-0a0e1a?style=flat-square&logo=visual-studio-code&logoColor=C9A84C) |
 
 </div>
 
-**AI-driven engine that tracks and scores the social impact of open-source projects.** Deep-scan contributor analysis, geographic impact mapping, and community health scoring — light cast into the darkness of invisible effort.
+<br/><br/>
 
-[![View](https://img.shields.io/badge/⚔_View_Repo-0a0e1a?style=flat-square&logoColor=C9A84C)](https://github.com/Huzaifa-12Imran/ImpactTracker)
+<!---------------------------------------------------------------------------->
+<!--  IV. THE CHRONICLES — FEATURED PROJECTS  -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+### `⸺ 精鋭作品 ⸺`
+### *CHRONICLES OF BATTLE*
+
+<br/>
+
+*Three quests. Three victories. The samurai does not count his wars — only his scars.*
+
+</div>
+
+<br/>
+
+---
+
+### ⚔ &nbsp; [IMPACTTRACKER](https://github.com/Huzaifa-12Imran/ImpactTracker) &nbsp;`·`&nbsp; *The Oracle of Open Source*
+
+> *"To measure what others ignore — that is the mark of a true strategist."*
+
+An AI-driven engine that tracks and scores the **social impact of open-source projects**. Deep-scan contributor analysis, geographic impact mapping, and community health scoring — light cast into the darkness where invisible effort lives unrecognised.
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=C9A84C)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=flat-square&logo=nextdotjs&logoColor=C9A84C)
 ![Civic Tech](https://img.shields.io/badge/Civic_Tech-0a0e1a?style=flat-square&logoColor=C9A84C)
+![Open Source](https://img.shields.io/badge/Open_Source-0a0e1a?style=flat-square&logoColor=C9A84C)
+&nbsp;&nbsp;⭐ **3** &nbsp;·&nbsp; 🍴 **1** &nbsp;·&nbsp; MIT License
 
-⭐ 3 &nbsp;·&nbsp; 🍴 1 &nbsp;·&nbsp; MIT
+---
 
-</td>
-<td width="33%" valign="top">
+### 🏯 &nbsp; [COREBANKING SYSTEM](https://github.com/Huzaifa-12Imran/CoreBankingSystem) &nbsp;`·`&nbsp; *The Iron Fortress*
 
-<div align="center">
+> *"The strongest castle is built not in a day, but in a thousand careful transactions."*
 
-```
-┌─────────────────────────┐
-│  ◈  COREBANKING         │
-│  ── ── ── ── ── ── ──   │
-│  ENTERPRISE  STRONGHOLD │
-└─────────────────────────┘
-```
+Enterprise-grade Core Banking System built with **PostgreSQL 17 and Node.js**. Advanced PL/SQL automation, ACID-compliant transactions, and a premium Zinc-style Bento dashboard — a fortress raised transaction by transaction, immovable, precise, eternal.
 
-</div>
-
-**Enterprise-grade Core Banking System built with PostgreSQL 17 and Node.js.** Advanced PL/SQL automation, ACID-compliant transactions, and a premium Bento dashboard — a fortress built transaction by transaction.
-
-[![View](https://img.shields.io/badge/⚔_View_Repo-0a0e1a?style=flat-square&logoColor=C9A84C)](https://github.com/Huzaifa-12Imran/CoreBankingSystem)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=nodedotjs&logoColor=C9A84C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=flat-square&logo=postgresql&logoColor=C9A84C)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0a0e1a?style=flat-square&logoColor=C9A84C)
+![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL_17-0a0e1a?style=flat-square&logo=postgresql&logoColor=C9A84C)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-0a0e1a?style=flat-square&logoColor=C9A84C)
+![Bento UI](https://img.shields.io/badge/Bento_Dashboard-0a0e1a?style=flat-square&logoColor=C9A84C)
+&nbsp;&nbsp;⭐ **1** &nbsp;·&nbsp; PLpgSQL
 
-⭐ 1 &nbsp;·&nbsp; PLpgSQL
+---
 
-</td>
-<td width="33%" valign="top">
+### 🌙 &nbsp; [NEXUS MAIL](https://github.com/Huzaifa-12Imran/Nexus-Mail) &nbsp;`·`&nbsp; *The Messenger Who Never Sleeps*
 
-<div align="center">
+> *"Words are arrows. The wise man sends them with intention."*
 
-```
-┌─────────────────────────┐
-│  ◈  NEXUS MAIL          │
-│  ── ── ── ── ── ── ──   │
-│  AI-POWERED  MESSENGER  │
-└─────────────────────────┘
-```
+A **Gmail Clone powered by AI** — intelligent email assistance woven into every keystroke. Where ancient scrolls meet machine intuition. The messenger who reads between the lines, so you never have to.
 
-</div>
-
-**A Gmail Clone powered by AI** — intelligent email assistance woven into every interaction. Where ancient scrolls meet machine intuition; the messenger who never sleeps.
-
-[![View](https://img.shields.io/badge/⚔_View_Repo-0a0e1a?style=flat-square&logoColor=C9A84C)](https://github.com/Huzaifa-12Imran/Nexus-Mail)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=C9A84C)
-![AI](https://img.shields.io/badge/AI_Powered-0a0e1a?style=flat-square&logoColor=C9A84C)
+![AI Powered](https://img.shields.io/badge/AI_Powered-0a0e1a?style=flat-square&logoColor=C9A84C)
+&nbsp;&nbsp;⭐ **2** &nbsp;·&nbsp; TypeScript
 
-⭐ 2 &nbsp;·&nbsp; TypeScript
+---
 
-</td>
-</tr>
-</table>
-</div>
+<br/><br/>
+
+<!---------------------------------------------------------------------------->
+<!--  V. BATTLE RECORDS — REAL STATS  -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+### `⸺ 戦の記録 ⸺`
+### *BATTLE RECORDS*
 
 <br/>
 
-<!-- ═══════════════════════════ TECH STACK ════════════════════════════ -->
+*The Chronicle does not lie. Every line committed. Every quest completed.*
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-12Imran&bg_color=0a0e1a&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C15&hide_border=true&custom_title=Contribution%20Chronicle%20%E2%80%94%20影の侍&radius=6" width="100%"/>
+
+<br/><br/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&icon_color=C9A84C&border_color=1e1a0e&hide_border=false&count_private=true&include_all_commits=true&custom_title=Warrior%20Stats"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&border_color=1e1a0e&hide_border=false&custom_title=Scripts%20of%20Battle&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=transparent&background=0a0e1a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=a09070&currStreakNum=ffffff&sideNums=C9A84C&dates=555040&hide_border=false&border=1e1a0e&stroke=C9A84C30"/>
+
+</div>
+
+<br/><br/>
+
+<!---------------------------------------------------------------------------->
+<!--  VI. HONORS  -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+### `⸺ 名誉の証 ⸺`
+### *HONORS OF THE CLAN*
+
+<br/>
+
+*The clan remembers those who persisted.*
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Huzaifa-12Imran&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6"/>
+
+</div>
+
+<br/><br/>
+
+<!---------------------------------------------------------------------------->
+<!--  VII. THE FAREWELL  -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
 ```
-　　　　　　　　◈  武器庫  |  THE  ARSENAL  ◈
+　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　A　samurai　does　not　fear　the　blank　page.　
+　　He　only　fears　the　day　he　stops　writing.　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ```
 
-</div>
+*— Huzaifa Imran &nbsp;·&nbsp; 影の侍 &nbsp;·&nbsp; Shadow Samurai*
 
-<div align="center">
+<br/><br/>
 
-**⚔ &nbsp; FRONT LINE — FRONTEND**
-
-![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=C9A84C)
-![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=for-the-badge&logo=nextdotjs&logoColor=C9A84C)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=C9A84C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0e1a?style=for-the-badge&logo=tailwind-css&logoColor=C9A84C)
-![HTML5](https://img.shields.io/badge/HTML5-0a0e1a?style=for-the-badge&logo=html5&logoColor=C9A84C)
-![CSS3](https://img.shields.io/badge/CSS3-0a0e1a?style=for-the-badge&logo=css3&logoColor=C9A84C)
-
-**🏯 &nbsp; STRONGHOLD — BACKEND**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=for-the-badge&logo=nodedotjs&logoColor=C9A84C)
-![Express.js](https://img.shields.io/badge/Express.js-0a0e1a?style=for-the-badge&logo=express&logoColor=C9A84C)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=for-the-badge&logo=mongodb&logoColor=C9A84C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=C9A84C)
-![GraphQL](https://img.shields.io/badge/GraphQL-0a0e1a?style=for-the-badge&logo=graphql&logoColor=C9A84C)
-
-**🌙 &nbsp; SHADOW TOOLS**
-
-![Git](https://img.shields.io/badge/Git-0a0e1a?style=for-the-badge&logo=git&logoColor=C9A84C)
-![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=C9A84C)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0e1a?style=for-the-badge&logo=visual-studio-code&logoColor=C9A84C)
-![Figma](https://img.shields.io/badge/Figma-0a0e1a?style=for-the-badge&logo=figma&logoColor=C9A84C)
-![Blender](https://img.shields.io/badge/Blender-0a0e1a?style=for-the-badge&logo=blender&logoColor=C9A84C)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0e1a?style=for-the-badge&logo=unrealengine&logoColor=C9A84C)
-
-</div>
-
-<br/>
-
-<!-- ════════════════ CODING ACTIVITY ══════════════════ -->
-
-<div align="center">
-
-```
-　　　　　　　◈  戦の記録  |  BATTLE  RECORDS  ◈
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-12Imran&bg_color=0a0e1a&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C20&hide_border=true&custom_title=Contribution%20Chronicle%20%E2%80%94%20影%E3%81%AE%E4%BE%8D" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ════════════════ GITHUB STATS ══════════════════ -->
-
-<div align="center">
-
-```
-　　　　　　　◈  侍の実力  |  WARRIOR  STATS  ◈
-```
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=c8c3b0&icon_color=C9A84C&border_color=2a2010&hide_border=false&count_private=true&include_all_commits=true&ring_color=C9A84C"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=transparent&bg_color=0a0e1a&title_color=C9A84C&text_color=c8c3b0&border_color=2a2010&hide_border=false&langs_count=6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=transparent&background=0a0e1a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=c8c3b0&currStreakNum=ffffff&sideNums=C9A84C&dates=666050&hide_border=false&border=2a2010&stroke=C9A84C40"/>
-</div>
-
-<br/>
-
-<!-- ════════════════ TROPHIES ══════════════════ -->
-
-<div align="center">
-
-```
-　　　　　　　◈  名誉の証  |  HONORS  &  TROPHIES  ◈
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=Huzaifa-12Imran&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&title_color=C9A84C"/>
-
-</div>
-
-<br/>
-
-<!-- ════════════════ CONNECT ══════════════════ -->
-
-<div align="center">
-
-```
-　　　　　　　◈  連絡  |  SUMMON  THE  SHADOW  ◈
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/huzaifaimran-sungpog)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=C9A84C)](https://port-folio-bb21.vercel.app)
-[![Email](https://img.shields.io/badge/Email-0a0e1a?style=for-the-badge&logo=microsoft-outlook&logoColor=C9A84C)](mailto:smart_huzaifa@outlook.com)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════ FOOTER ════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=0&pause=0&color=3a3020&center=true&vCenter=true&repeat=false&width=800&lines=%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94" alt="divider"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=0&pause=0&color=555040&center=true&vCenter=true&repeat=false&width=800&lines=%22+C+O+D+E++I+S++N+O+T++J+U+S+T++A+B+O+U+T++S+O+L+V+I+N+G++P+R+O+B+L+E+M+S%2C" alt="quote line 1"/>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=0&pause=0&color=C9A84C&center=true&vCenter=true&repeat=false&width=800&lines=I+T+'+S++A+B+O+U+T++C+R+E+A+T+I+N+G++P+O+S+S+I+B+I+L+I+T+I+E+S+." alt="quote line 2"/>
-
-<br/>
-
-```
-　　　　　　　影　の　侍　｜　S H A D O W　S A M U R A I　｜　影　の　侍
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1a1500,100:0a0e1a&height=100&section=footer&fontColor=C9A84C"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0f1525,80:1a1200,100:0a0e1a&height=120&section=footer"/>
 
 </div>
