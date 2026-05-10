@@ -1,101 +1,133 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Huzaifa Imran Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  HUZAIFA_IMRAN.exe
-</h1>
+<img src="YOUR_BANNER_URL_HERE" width="100%" />
 
-<p align="center">
-  <b>Full-Stack MERN Engineer • 3D Environment Designer • UX-Focused Builder</b>
-</p>
+<br/>
 
-<p align="center">
-  Software Engineering Student @ FAST-NUCES '28 &nbsp;|&nbsp; Faisalabad, Pakistan
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=ACCESSING+SECURE+PROFILE...;HUZAIFA_IMRAN.exe;FULL+STACK+MERN+OPERATIVE;SYSTEM+STATUS:+ACTIVE" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/huzaifaimran-sunghua">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://port-folio-bb21.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:huzaifaimran@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Huzaifa-12Imran">
-    <img src="https://img.shields.io/github/followers/Huzaifa-12Imran?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# // PROFILE
+<div align="center">
+
+# `HUZAIFA_IMRAN.exe`
+
+### `FULL STACK ENGINEER / MERN OPERATIVE`
+
+```diff
++ STATUS: ACTIVE
+# LOCATION: FAST-NUCES FSD
+! SPECIALIZATION: WEB SYSTEMS • AI • 3D EXPERIENCES
+```
+
+</div>
+
+---
+
+# // DOSSIER
 
 ```yaml
-name: Huzaifa Imran
+codename: SHADOW DEV
 
-role: Full Stack MERN Engineer
+mission:
+  - engineer scalable systems
+  - craft immersive interfaces
+  - merge code with visual storytelling
 
-specialization:
-  - Modern Web Applications
-  - UX-Driven Interfaces
-  - Scalable Backend Systems
-  - 3D Interactive Experiences
+arsenal:
+  frontend:
+    - React
+    - Next.js
+    - TailwindCSS
 
-currently_building:
-  - AI-integrated web systems
-  - Real-time applications
-  - Unreal Engine environments
-  - Creative developer experiences
+  backend:
+    - Node.js
+    - Express
+    - MongoDB
 
-tech_philosophy:
-  "Code should solve problems.
-   Design should create emotion."
+  systems:
+    - C++
+    - Assembly
+    - OOP
 
-status: ACTIVE
+  creative:
+    - Unreal Engine 5
+    - Blender
+    - Figma
+
+current_objective:
+  "Building digital experiences that feel cinematic."
+
+mindset:
+  "Most developers write software.
+   I engineer atmospheres."
 ```
 
 ---
 
-# // ABOUT ME
-
-- Building modern full-stack applications with strong focus on architecture and user experience
-- Designing immersive 3D environments and cinematic experiences using Unreal Engine & Blender
-- Comfortable across frontend, backend, systems programming, and visual design
-- Passionate about combining engineering with creativity
-- Available for ambitious projects and impactful collaborations
-
----
-
-# // FEATURED OPERATIONS
+# // MISSION LOGS
 
 <table>
 <tr>
+
 <td width="50%">
 
-## Operation: Portfolio
+## `OPERATION: NIGHTFALL`
 
-Modern developer portfolio focused on immersive UI and smooth interactions.
+### Full Stack E-Commerce Platform
 
-### Stack
-`Next.js` `React` `TailwindCSS` `Framer Motion`
+```txt
+STACK:
+MERN • Stripe • Tailwind • JWT
+```
 
-### Links
-- [Live Site](https://port-folio-bb21.vercel.app)
-- [Repository](https://github.com/Huzaifa-12Imran/Port-folio)
+### OBJECTIVES
+- Scalable architecture
+- Secure authentication
+- Premium UI/UX
+- Payment integration
+
+### STATUS
+```diff
++ DEPLOYED
+```
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="YOUR_PROJECT_GIF_OR_IMAGE" width="100%" />
+</a>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-12Imran&repo=Port-folio&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117"/>
+## `OPERATION: SHADOWCHAT`
+
+### Real-Time Communication System
+
+```txt
+STACK:
+Socket.io • React • Node.js
+```
+
+### OBJECTIVES
+- Real-time messaging
+- WebSocket integration
+- Responsive UI
+- Modern architecture
+
+### STATUS
+```diff
++ ACTIVE
+```
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="YOUR_PROJECT_GIF_OR_IMAGE" width="100%" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -103,87 +135,134 @@ Modern developer portfolio focused on immersive UI and smooth interactions.
 
 # // TECH ARSENAL
 
-## Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,py&theme=dark"/>
-</p>
+## LANGUAGES
 
-## Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
-</p>
-
-## Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-</p>
-
-## Creative & Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unrealengine,blender,figma&theme=dark"/>
-</p>
-
-## Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,c,py&theme=dark" />
 
 ---
 
-# // CURRENT MISSION
+## FRONTEND SYSTEMS
 
-```txt
-> Building scalable and immersive web experiences
-> Exploring AI integrations in modern applications
-> Improving backend architecture and system design
-> Expanding expertise in Unreal Engine and 3D workflows
-> Creating products that blend engineering with design
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+
+---
+
+## BACKEND SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+---
+
+## CREATIVE TOOLS
+
+<img src="https://skillicons.dev/icons?i=unrealengine,blender,figma&theme=dark" />
+
+---
+
+## DEPLOYMENT & TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+</div>
+
+---
+
+# // CURRENT OBJECTIVE
+
+<div align="center">
+
+| TARGET | STATUS |
+|---|---|
+| Scalable SaaS Platforms | ██████████ |
+| AI Integrations | ████████░░ |
+| Unreal Engine Environments | ███████░░░ |
+| System Design Mastery | ████████░░ |
+| Open Source Contributions | ██████░░░░ |
+
+</div>
+
+---
+
+# // SYSTEM ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"/>
+
+</div>
+
+---
+
+# // LIVE TERMINAL
+
+<div align="center">
+
+```bash
+> initializing developer profile...
+
+> loading systems...
+████████████████████ 100%
+
+> specialties detected:
+- Full Stack Engineering
+- UX Systems
+- 3D Environment Design
+- Real-Time Applications
+
+> philosophy loaded...
+
+"Build in the shadows.
+ Deliver in the light."
+
+> system ready.
 ```
 
----
-
-# // GITHUB ANALYTICS
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-12Imran&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# // PHILOSOPHY
+# // CONNECTION CHANNELS
 
-```txt
-Most developers build applications.
+<div align="center">
 
-I aim to build experiences —
-systems that scale,
-interfaces that feel effortless,
-and products that leave an impact.
-```
+<a href="https://port-folio-bb21.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/huzaifaimran-sunghua">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:huzaifaimran@outlook.com">
+  <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Huzaifa-12Imran">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# // CONNECT
+<div align="center">
 
-<p align="center">
-  <a href="https://port-folio-bb21.vercel.app">Portfolio</a>
-  •
-  <a href="https://www.linkedin.com/in/huzaifaimran-sunghua">LinkedIn</a>
-  •
-  <a href="mailto:huzaifaimran@outlook.com">Email</a>
-</p>
+## 「影の開発者」
 
-<p align="center">
-  <i>"Build in the shadows. Deliver in the light."</i>
-</p>
+### `SHADOW DEVELOPER`
+
+<i>
+I don't follow paths.
+
+I forge them.
+</i>
+
+</div>
