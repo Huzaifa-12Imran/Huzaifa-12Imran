@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0e1a;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#0d1526;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#080c18;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="glowBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00A8FF;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#00A8FF;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#00A8FF;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="statBorder" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2a4a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1a30;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Stars pattern -->
+    <pattern id="stars" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="30" r="0.8" fill="#ffffff" opacity="0.4"/>
+      <circle cx="65" cy="15" r="0.5" fill="#ffffff" opacity="0.3"/>
+      <circle cx="85" cy="55" r="1" fill="#ffffff" opacity="0.5"/>
+      <circle cx="10" cy="75" r="0.6" fill="#ffffff" opacity="0.2"/>
+      <circle cx="45" cy="80" r="0.7" fill="#ffffff" opacity="0.3"/>
+      <circle cx="90" cy="90" r="0.5" fill="#ffffff" opacity="0.4"/>
+      <circle cx="55" cy="45" r="0.4" fill="#00A8FF" opacity="0.5"/>
+      <circle cx="30" cy="60" r="0.6" fill="#ffffff" opacity="0.2"/>
+    </pattern>
+    <!-- Right side Japanese vertical gradient overlay -->
+    <linearGradient id="rightFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0e1a;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#0a0e1a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="380" fill="url(#bgGrad)"/>
+  <!-- Stars overlay -->
+  <rect width="1200" height="380" fill="url(#stars)" opacity="0.7"/>
+
+  <!-- Subtle blue glow in the middle area -->
+  <ellipse cx="600" cy="190" rx="450" ry="200" fill="url(#glowBlue)" opacity="0.4"/>
+
+  <!-- Top border line -->
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#1a2a4a" stroke-width="1"/>
+  <!-- Bottom border line -->
+  <line x1="0" y1="379" x2="1200" y2="379" stroke="#1a2a4a" stroke-width="1"/>
+
+  <!-- ── LEFT CONTENT ── -->
+
+  <!-- // FULL STACK label -->
+  <text x="52" y="60" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#555e6e" letter-spacing="1">//</text>
+  <text x="72" y="60" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#555e6e" letter-spacing="1"> FULL STACK </text>
+  <text x="175" y="60" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#00A8FF" letter-spacing="1" filter="url(#glow)">MERN DEVELOPER</text>
+
+  <!-- HUZAIFA.IMRAN name -->
+  <text x="50" y="140" font-family="'Impact', 'Arial Black', sans-serif" font-size="68" font-weight="900" fill="#ffffff" letter-spacing="2" filter="url(#textGlow)">HUZAIFA.IMRAN</text>
+  <!-- /> tag in blue -->
+  <text x="660" y="140" font-family="'Impact', 'Arial Black', sans-serif" font-size="68" font-weight="900" fill="#00A8FF" filter="url(#glow)"> /></text>
+  <!-- > cursor after name (closing tag effect) -->
+  <text x="704" y="140" font-family="'Impact', 'Arial Black', sans-serif" font-size="68" font-weight="900" fill="#00A8FF" opacity="0.7"> </text>
+
+  <!-- Tagline -->
+  <text x="52" y="170" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#888888" letter-spacing="8">I BUILD • INNOVATE • I DELIVER</text>
+
+  <!-- Description -->
+  <text x="52" y="200" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#6a7a8a">I craft scalable web applications and immersive digital</text>
+  <text x="52" y="217" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#6a7a8a">experiences with clean code and modern technologies.</text>
+
+  <!-- ── STAT BOXES ── -->
+  <!-- Box 1: Projects -->
+  <rect x="52" y="240" width="115" height="55" rx="4" fill="#0d1526" stroke="#1a2a4a" stroke-width="1"/>
+  <text x="67" y="260" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00A8FF">&lt;/&gt;</text>
+  <text x="84" y="260" font-family="'Share Tech Mono', monospace" font-size="17" fill="#ffffff" font-weight="bold"> 35+</text>
+  <text x="67" y="284" font-family="'Share Tech Mono', monospace" font-size="9" fill="#4a5a6a" letter-spacing="2">PROJECTS</text>
+
+  <!-- Box 2: Commits -->
+  <rect x="178" y="240" width="115" height="55" rx="4" fill="#0d1526" stroke="#1a2a4a" stroke-width="1"/>
+  <text x="193" y="260" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00A8FF">⟳</text>
+  <text x="208" y="260" font-family="'Share Tech Mono', monospace" font-size="17" fill="#ffffff" font-weight="bold"> 1.2K+</text>
+  <text x="193" y="284" font-family="'Share Tech Mono', monospace" font-size="9" fill="#4a5a6a" letter-spacing="2">COMMITS</text>
+
+  <!-- Box 3: Stars -->
+  <rect x="304" y="240" width="115" height="55" rx="4" fill="#0d1526" stroke="#1a2a4a" stroke-width="1"/>
+  <text x="319" y="262" font-family="'Arial Unicode MS', sans-serif" font-size="14" fill="#00A8FF">☆</text>
+  <text x="335" y="260" font-family="'Share Tech Mono', monospace" font-size="17" fill="#ffffff" font-weight="bold"> 150+</text>
+  <text x="319" y="284" font-family="'Share Tech Mono', monospace" font-size="9" fill="#4a5a6a" letter-spacing="2">STARS</text>
+
+  <!-- Box 4: Contributors -->
+  <rect x="430" y="240" width="135" height="55" rx="4" fill="#0d1526" stroke="#1a2a4a" stroke-width="1"/>
+  <text x="445" y="262" font-family="sans-serif" font-size="14" fill="#00A8FF">⊙</text>
+  <text x="463" y="260" font-family="'Share Tech Mono', monospace" font-size="17" fill="#ffffff" font-weight="bold"> 20+</text>
+  <text x="445" y="284" font-family="'Share Tech Mono', monospace" font-size="9" fill="#4a5a6a" letter-spacing="2">CONTRIBUTORS</text>
+
+  <!-- System Status bar -->
+  <rect x="52" y="314" width="520" height="34" rx="4" fill="#0a0e1a" stroke="#1a2a4a" stroke-width="1"/>
+  <text x="68" y="336" font-family="'Share Tech Mono', monospace" font-size="12" fill="#00A8FF">&gt;</text>
+  <text x="84" y="336" font-family="'Share Tech Mono', monospace" font-size="12" fill="#555e6e">  SYSTEM STATUS:</text>
+  <text x="230" y="336" font-family="'Share Tech Mono', monospace" font-size="12" fill="#00ff88" letter-spacing="2" filter="url(#glow)"> ACTIVE</text>
+  <!-- Blinking cursor block -->
+  <rect x="316" y="322" width="10" height="16" fill="#00ff88" opacity="0.9"/>
+
+  <!-- ── RIGHT: Japanese Kanji Column ── -->
+  <!-- Kanji bg panel -->
+  <rect x="1100" y="0" width="100" height="380" fill="#06090f"/>
+  <line x1="1100" y1="0" x2="1100" y2="380" stroke="#1a2a4a" stroke-width="1"/>
+
+  <!-- Japanese Characters vertical -->
+  <text x="1138" y="65" font-family="'MS Gothic', 'Noto Sans CJK JP', serif" font-size="36" fill="#00A8FF" text-anchor="middle" filter="url(#glow)">影</text>
+  <text x="1138" y="110" font-family="'MS Gothic', 'Noto Sans CJK JP', serif" font-size="36" fill="#00A8FF" text-anchor="middle">の</text>
+  <text x="1138" y="155" font-family="'MS Gothic', 'Noto Sans CJK JP', serif" font-size="36" fill="#00A8FF" text-anchor="middle">開</text>
+  <text x="1138" y="200" font-family="'MS Gothic', 'Noto Sans CJK JP', serif" font-size="36" fill="#00A8FF" text-anchor="middle">発</text>
+  <text x="1138" y="245" font-family="'MS Gothic', 'Noto Sans CJK JP', serif" font-size="36" fill="#00A8FF" text-anchor="middle">者</text>
+
+  <!-- Shadow Developer box with Kanji -->
+  <rect x="1105" y="262" width="88" height="88" rx="4" fill="#0d1526" stroke="#00A8FF" stroke-width="1.5"/>
+  <text x="1149" y="312" font-family="'MS Gothic', 'Noto Sans CJK JP', serif" font-size="42" fill="#00A8FF" text-anchor="middle" filter="url(#glow)">影</text>
+
+  <!-- SHADOW DEVELOPER label -->
+  <text x="1149" y="358" font-family="'Share Tech Mono', monospace" font-size="8" fill="#4a5a6a" text-anchor="middle" letter-spacing="1">SHADOW</text>
+  <text x="1149" y="372" font-family="'Share Tech Mono', monospace" font-size="8" fill="#4a5a6a" text-anchor="middle" letter-spacing="1">DEVELOPER</text>
+
+  <!-- ── NINJA SILHOUETTE AREA (right-center) ── -->
+  <!-- Since we can't embed a real photo, we put a dramatic atmospheric glow -->
+  <!-- Users should replace this with their actual ninja image -->
+  <!-- Atmospheric light effects where the ninja would be -->
+  <ellipse cx="830" cy="160" rx="120" ry="200" fill="#1a2a4a" opacity="0.15"/>
+  <ellipse cx="830" cy="120" rx="80" ry="80" fill="#00A8FF" opacity="0.04"/>
+
+  <!-- Crosshair / star decoration top right -->
+  <line x1="1070" y1="30" x2="1082" y2="30" stroke="#00A8FF" stroke-width="1" opacity="0.5"/>
+  <line x1="1076" y1="24" x2="1076" y2="36" stroke="#00A8FF" stroke-width="1" opacity="0.5"/>
+  <circle cx="1076" cy="30" r="3" fill="none" stroke="#00A8FF" stroke-width="0.8" opacity="0.5"/>
+</svg>
