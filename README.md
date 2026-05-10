@@ -207,9 +207,13 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 
 <br/><br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-12Imran&show_icons=true&hide_border=false&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&icon_color=C9A84C&border_color=1e1a0e&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-12Imran&layout=compact&bg_color=0a0e1a&title_color=C9A84C&text_color=a09070&border_color=1e1a0e&hide_border=false&langs_count=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huzaifa-12Imran&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Huzaifa-12Imran&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Huzaifa-12Imran&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Huzaifa-12Imran&theme=github_dark" width="32%"/>
 
 <br/><br/>
 
