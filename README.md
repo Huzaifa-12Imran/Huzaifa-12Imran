@@ -91,7 +91,9 @@ const jin = {
 
 <br/>
 
-**`⚔ FRONT LINE — FRONTEND`**
+<div align="center">
+<img src="./icons/frontend.svg" width="220" alt="Front Line — Frontend"/>
+</div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js,vite&theme=dark" />
@@ -99,7 +101,9 @@ const jin = {
 
 <br/>
 
-**`🏯 THE STRONGHOLD — BACKEND`**
+<div align="center">
+<img src="./icons/backend.svg" width="220" alt="The Stronghold — Backend"/>
+</div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,prisma&theme=dark" />
@@ -107,7 +111,9 @@ const jin = {
 
 <br/>
 
-**`🌙 SHADOW TOOLS`**
+<div align="center">
+<img src="./icons/shadow.svg" width="220" alt="Shadow Tools — Arsenal"/>
+</div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,unrealengine,cpp,python&theme=dark" />
