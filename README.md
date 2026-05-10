@@ -204,7 +204,7 @@ A **Gmail Clone powered by AI** — intelligent email assistance woven into ever
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-12Imran&bg_color=0a0e1a&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C15&hide_border=true&custom_title=Contribution%20Chronicle%20%E2%80%94%20影の侍&radius=6" width="100%"/>
-
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Huzaifa-12Imran&theme=transparent&background=0a0e1a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=a09070&currStreakNum=ffffff&sideNums=C9A84C&dates=555040&hide_border=false&border=1e1a0e&stroke=C9A84C30&card_width=800"/>
 
