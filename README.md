@@ -95,20 +95,22 @@ const huzaifa = {
 
 ```
 ┌─────────────────────────┐
-│  ◈  NEXORA              │
+│  ◈  IMPACTTRACKER       │
 │  ── ── ── ── ── ── ──   │
-│  AI PRODUCTIVITY FORGE  │
+│  AI  SOCIAL  ORACLE     │
 └─────────────────────────┘
 ```
 
 </div>
 
-**AI-powered productivity platform with real-time collaboration.** Built for teams who move like shadows — fast, silent, precise.
+**AI-driven engine that tracks and scores the social impact of open-source projects.** Deep-scan contributor analysis, geographic impact mapping, and community health scoring — light cast into the darkness of invisible effort.
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=flat-square&logo=nextdotjs&logoColor=C9A84C)
+[![View](https://img.shields.io/badge/⚔_View_Repo-0a0e1a?style=flat-square&logoColor=C9A84C)](https://github.com/Huzaifa-12Imran/ImpactTracker)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=C9A84C)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0e1a?style=flat-square&logo=tailwind-css&logoColor=C9A84C)
-![Convex](https://img.shields.io/badge/Convex-0a0e1a?style=flat-square&logoColor=C9A84C)
+![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=flat-square&logo=nextdotjs&logoColor=C9A84C)
+![Civic Tech](https://img.shields.io/badge/Civic_Tech-0a0e1a?style=flat-square&logoColor=C9A84C)
+
+⭐ 3 &nbsp;·&nbsp; 🍴 1 &nbsp;·&nbsp; MIT
 
 </td>
 <td width="33%" valign="top">
@@ -117,20 +119,22 @@ const huzaifa = {
 
 ```
 ┌─────────────────────────┐
-│  ◈  ECHO STORE          │
+│  ◈  COREBANKING         │
 │  ── ── ── ── ── ── ──   │
-│  E-COMMERCE  DOJO       │
+│  ENTERPRISE  STRONGHOLD │
 └─────────────────────────┘
 ```
 
 </div>
 
-**Modern e-commerce with smooth animations & premium UX.** Every interaction crafted with the patience of a master artisan.
+**Enterprise-grade Core Banking System built with PostgreSQL 17 and Node.js.** Advanced PL/SQL automation, ACID-compliant transactions, and a premium Bento dashboard — a fortress built transaction by transaction.
 
-![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=C9A84C)
+[![View](https://img.shields.io/badge/⚔_View_Repo-0a0e1a?style=flat-square&logoColor=C9A84C)](https://github.com/Huzaifa-12Imran/CoreBankingSystem)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=nodedotjs&logoColor=C9A84C)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=flat-square&logo=mongodb&logoColor=C9A84C)
-![Stripe](https://img.shields.io/badge/Stripe-0a0e1a?style=flat-square&logo=stripe&logoColor=C9A84C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=flat-square&logo=postgresql&logoColor=C9A84C)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0a0e1a?style=flat-square&logoColor=C9A84C)
+
+⭐ 1 &nbsp;·&nbsp; PLpgSQL
 
 </td>
 <td width="33%" valign="top">
@@ -139,19 +143,21 @@ const huzaifa = {
 
 ```
 ┌─────────────────────────┐
-│  ◈  REALMS              │
+│  ◈  NEXUS MAIL          │
 │  ── ── ── ── ── ── ──   │
-│  3D  WORLD  ARCHITECT   │
+│  AI-POWERED  MESSENGER  │
 └─────────────────────────┘
 ```
 
 </div>
 
-**3D environment design and level art using Unreal Engine 5.** Where the boundary between worlds dissolves like morning mist.
+**A Gmail Clone powered by AI** — intelligent email assistance woven into every interaction. Where ancient scrolls meet machine intuition; the messenger who never sleeps.
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0e1a?style=flat-square&logo=unrealengine&logoColor=C9A84C)
-![Blender](https://img.shields.io/badge/Blender-0a0e1a?style=flat-square&logo=blender&logoColor=C9A84C)
-![Megascans](https://img.shields.io/badge/Megascans-0a0e1a?style=flat-square&logoColor=C9A84C)
+[![View](https://img.shields.io/badge/⚔_View_Repo-0a0e1a?style=flat-square&logoColor=C9A84C)](https://github.com/Huzaifa-12Imran/Nexus-Mail)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=C9A84C)
+![AI](https://img.shields.io/badge/AI_Powered-0a0e1a?style=flat-square&logoColor=C9A84C)
+
+⭐ 2 &nbsp;·&nbsp; TypeScript
 
 </td>
 </tr>
